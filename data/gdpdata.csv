@@ -1,26 +1,26 @@
 ﻿country,year,gdp
-Afghanistan,1980,no data
-Afghanistan,1981,no data
-Afghanistan,1982,no data
-Afghanistan,1983,no data
-Afghanistan,1984,no data
-Afghanistan,1985,no data
-Afghanistan,1986,no data
-Afghanistan,1987,no data
-Afghanistan,1988,no data
-Afghanistan,1989,no data
-Afghanistan,1990,no data
-Afghanistan,1991,no data
-Afghanistan,1992,no data
-Afghanistan,1993,no data
-Afghanistan,1994,no data
-Afghanistan,1995,no data
-Afghanistan,1996,no data
-Afghanistan,1997,no data
-Afghanistan,1998,no data
-Afghanistan,1999,no data
-Afghanistan,2000,no data
-Afghanistan,2001,no data
+Afghanistan,1980,0
+Afghanistan,1981,0
+Afghanistan,1982,0
+Afghanistan,1983,0
+Afghanistan,1984,0
+Afghanistan,1985,0
+Afghanistan,1986,0
+Afghanistan,1987,0
+Afghanistan,1988,0
+Afghanistan,1989,0
+Afghanistan,1990,0
+Afghanistan,1991,0
+Afghanistan,1992,0
+Afghanistan,1993,0
+Afghanistan,1994,0
+Afghanistan,1995,0
+Afghanistan,1996,0
+Afghanistan,1997,0
+Afghanistan,1998,0
+Afghanistan,1999,0
+Afghanistan,2000,0
+Afghanistan,2001,0
 Afghanistan,2002,233.433
 Afghanistan,2003,233.755
 Afghanistan,2004,254.259
@@ -41,13 +41,13 @@ Afghanistan,2018,582.323
 Afghanistan,2019,586.204
 Afghanistan,2020,611.268
 Afghanistan,2021,443.385
-Afghanistan,2022,no data
-Afghanistan,2023,no data
-Afghanistan,2024,no data
-Afghanistan,2025,no data
-Afghanistan,2026,no data
-Afghanistan,2027,no data
-Afghanistan,2028,no data
+Afghanistan,2022,0
+Afghanistan,2023,0
+Afghanistan,2024,0
+Afghanistan,2025,0
+Afghanistan,2026,0
+Afghanistan,2027,0
+Afghanistan,2028,0
 Albania,1980,728.359
 Albania,1981,817.734
 Albania,1982,824.542
@@ -146,36 +146,36 @@ Algeria,2025,5243.056
 Algeria,2026,5335.671
 Algeria,2027,5355.284
 Algeria,2028,5365.19
-Andorra,1980,no data
-Andorra,1981,no data
-Andorra,1982,no data
-Andorra,1983,no data
-Andorra,1984,no data
-Andorra,1985,no data
-Andorra,1986,no data
-Andorra,1987,no data
-Andorra,1988,no data
-Andorra,1989,no data
-Andorra,1990,no data
-Andorra,1991,no data
-Andorra,1992,no data
-Andorra,1993,no data
-Andorra,1994,no data
-Andorra,1995,no data
-Andorra,1996,no data
-Andorra,1997,no data
-Andorra,1998,no data
-Andorra,1999,no data
-Andorra,2000,no data
-Andorra,2001,no data
-Andorra,2002,no data
-Andorra,2003,no data
-Andorra,2004,no data
-Andorra,2005,no data
-Andorra,2006,no data
-Andorra,2007,no data
-Andorra,2008,no data
-Andorra,2009,no data
+Andorra,1980,0
+Andorra,1981,0
+Andorra,1982,0
+Andorra,1983,0
+Andorra,1984,0
+Andorra,1985,0
+Andorra,1986,0
+Andorra,1987,0
+Andorra,1988,0
+Andorra,1989,0
+Andorra,1990,0
+Andorra,1991,0
+Andorra,1992,0
+Andorra,1993,0
+Andorra,1994,0
+Andorra,1995,0
+Andorra,1996,0
+Andorra,1997,0
+Andorra,1998,0
+Andorra,1999,0
+Andorra,2000,0
+Andorra,2001,0
+Andorra,2002,0
+Andorra,2003,0
+Andorra,2004,0
+Andorra,2005,0
+Andorra,2006,0
+Andorra,2007,0
+Andorra,2008,0
+Andorra,2009,0
 Andorra,2010,49030.229
 Andorra,2011,51957.313
 Andorra,2012,45713.97
@@ -342,18 +342,18 @@ Argentina,2025,13330.463
 Argentina,2026,13704.371
 Argentina,2027,14288.019
 Argentina,2028,14813.269
-Armenia,1980,no data
-Armenia,1981,no data
-Armenia,1982,no data
-Armenia,1983,no data
-Armenia,1984,no data
-Armenia,1985,no data
-Armenia,1986,no data
-Armenia,1987,no data
-Armenia,1988,no data
-Armenia,1989,no data
-Armenia,1990,no data
-Armenia,1991,no data
+Armenia,1980,0
+Armenia,1981,0
+Armenia,1982,0
+Armenia,1983,0
+Armenia,1984,0
+Armenia,1985,0
+Armenia,1986,0
+Armenia,1987,0
+Armenia,1988,0
+Armenia,1989,0
+Armenia,1990,0
+Armenia,1991,0
 Armenia,1992,31.321
 Armenia,1993,247.884
 Armenia,1994,196.98
@@ -391,21 +391,21 @@ Armenia,2025,9785.538
 Armenia,2026,10488.266
 Armenia,2027,11248.191
 Armenia,2028,12062.817
-Aruba,1980,no data
-Aruba,1981,no data
-Aruba,1982,no data
-Aruba,1983,no data
-Aruba,1984,no data
-Aruba,1985,no data
-Aruba,1986,no data
-Aruba,1987,no data
-Aruba,1988,no data
-Aruba,1989,no data
-Aruba,1990,no data
-Aruba,1991,no data
-Aruba,1992,no data
-Aruba,1993,no data
-Aruba,1994,no data
+Aruba,1980,0
+Aruba,1981,0
+Aruba,1982,0
+Aruba,1983,0
+Aruba,1984,0
+Aruba,1985,0
+Aruba,1986,0
+Aruba,1987,0
+Aruba,1988,0
+Aruba,1989,0
+Aruba,1990,0
+Aruba,1991,0
+Aruba,1992,0
+Aruba,1993,0
+Aruba,1994,0
 Aruba,1995,16548.717
 Aruba,1996,16620.854
 Aruba,1997,17750.489
@@ -538,18 +538,18 @@ Austria,2025,63203.485
 Austria,2026,65474.483
 Austria,2027,67417.58
 Austria,2028,68979.609
-Azerbaijan,1980,no data
-Azerbaijan,1981,no data
-Azerbaijan,1982,no data
-Azerbaijan,1983,no data
-Azerbaijan,1984,no data
-Azerbaijan,1985,no data
-Azerbaijan,1986,no data
-Azerbaijan,1987,no data
-Azerbaijan,1988,no data
-Azerbaijan,1989,no data
-Azerbaijan,1990,no data
-Azerbaijan,1991,no data
+Azerbaijan,1980,0
+Azerbaijan,1981,0
+Azerbaijan,1982,0
+Azerbaijan,1983,0
+Azerbaijan,1984,0
+Azerbaijan,1985,0
+Azerbaijan,1986,0
+Azerbaijan,1987,0
+Azerbaijan,1988,0
+Azerbaijan,1989,0
+Azerbaijan,1990,0
+Azerbaijan,1991,0
 Azerbaijan,1992,159.971
 Azerbaijan,1993,174.875
 Azerbaijan,1994,297.162
@@ -783,18 +783,18 @@ Barbados,2025,24175.489
 Barbados,2026,25404.737
 Barbados,2027,26599.905
 Barbados,2028,27765.927
-Belarus,1980,no data
-Belarus,1981,no data
-Belarus,1982,no data
-Belarus,1983,no data
-Belarus,1984,no data
-Belarus,1985,no data
-Belarus,1986,no data
-Belarus,1987,no data
-Belarus,1988,no data
-Belarus,1989,no data
-Belarus,1990,no data
-Belarus,1991,no data
+Belarus,1980,0
+Belarus,1981,0
+Belarus,1982,0
+Belarus,1983,0
+Belarus,1984,0
+Belarus,1985,0
+Belarus,1986,0
+Belarus,1987,0
+Belarus,1988,0
+Belarus,1989,0
+Belarus,1990,0
+Belarus,1991,0
 Belarus,1992,1252.792
 Belarus,1993,1114.104
 Belarus,1994,1533.721
@@ -1077,22 +1077,22 @@ Bolivia,2025,4232.194
 Bolivia,2026,4423.803
 Bolivia,2027,4628.612
 Bolivia,2028,4842.902
-Bosnia and Herzegovina,1980,no data
-Bosnia and Herzegovina,1981,no data
-Bosnia and Herzegovina,1982,no data
-Bosnia and Herzegovina,1983,no data
-Bosnia and Herzegovina,1984,no data
-Bosnia and Herzegovina,1985,no data
-Bosnia and Herzegovina,1986,no data
-Bosnia and Herzegovina,1987,no data
-Bosnia and Herzegovina,1988,no data
-Bosnia and Herzegovina,1989,no data
-Bosnia and Herzegovina,1990,no data
-Bosnia and Herzegovina,1991,no data
-Bosnia and Herzegovina,1992,no data
-Bosnia and Herzegovina,1993,no data
-Bosnia and Herzegovina,1994,no data
-Bosnia and Herzegovina,1995,no data
+Bosnia and Herzegovina,1980,0
+Bosnia and Herzegovina,1981,0
+Bosnia and Herzegovina,1982,0
+Bosnia and Herzegovina,1983,0
+Bosnia and Herzegovina,1984,0
+Bosnia and Herzegovina,1985,0
+Bosnia and Herzegovina,1986,0
+Bosnia and Herzegovina,1987,0
+Bosnia and Herzegovina,1988,0
+Bosnia and Herzegovina,1989,0
+Bosnia and Herzegovina,1990,0
+Bosnia and Herzegovina,1991,0
+Bosnia and Herzegovina,1992,0
+Bosnia and Herzegovina,1993,0
+Bosnia and Herzegovina,1994,0
+Bosnia and Herzegovina,1995,0
 Bosnia and Herzegovina,1996,952.331
 Bosnia and Herzegovina,1997,1225.456
 Bosnia and Herzegovina,1998,1415.096
@@ -1224,11 +1224,11 @@ Brazil,2025,11441.81
 Brazil,2026,11933.778
 Brazil,2027,12617.438
 Brazil,2028,13230.077
-Brunei,1980,no data
-Brunei,1981,no data
-Brunei,1982,no data
-Brunei,1983,no data
-Brunei,1984,no data
+Brunei,1980,0
+Brunei,1981,0
+Brunei,1982,0
+Brunei,1983,0
+Brunei,1984,0
 Brunei,1985,21770.731
 Brunei,1986,14544.374
 Brunei,1987,16561.019
@@ -1469,12 +1469,12 @@ Cabo Verde,2025,5062.449
 Cabo Verde,2026,5349.525
 Cabo Verde,2027,5627.079
 Cabo Verde,2028,5917.426
-Cambodia,1980,no data
-Cambodia,1981,no data
-Cambodia,1982,no data
-Cambodia,1983,no data
-Cambodia,1984,no data
-Cambodia,1985,no data
+Cambodia,1980,0
+Cambodia,1981,0
+Cambodia,1982,0
+Cambodia,1983,0
+Cambodia,1984,0
+Cambodia,1985,0
 Cambodia,1986,25.707
 Cambodia,1987,17.116
 Cambodia,1988,32.608
@@ -2057,18 +2057,18 @@ Costa Rica,2025,18074.587
 Costa Rica,2026,18894.921
 Costa Rica,2027,19745.08
 Costa Rica,2028,20586.996
-Croatia,1980,no data
-Croatia,1981,no data
-Croatia,1982,no data
-Croatia,1983,no data
-Croatia,1984,no data
-Croatia,1985,no data
-Croatia,1986,no data
-Croatia,1987,no data
-Croatia,1988,no data
-Croatia,1989,no data
-Croatia,1990,no data
-Croatia,1991,no data
+Croatia,1980,0
+Croatia,1981,0
+Croatia,1982,0
+Croatia,1983,0
+Croatia,1984,0
+Croatia,1985,0
+Croatia,1986,0
+Croatia,1987,0
+Croatia,1988,0
+Croatia,1989,0
+Croatia,1990,0
+Croatia,1991,0
 Croatia,1992,120.012
 Croatia,1993,1590.721
 Croatia,1994,3683.337
@@ -2155,21 +2155,21 @@ Cyprus,2025,38870.112
 Cyprus,2026,40759.645
 Cyprus,2027,42489.557
 Cyprus,2028,44213.156
-Czechia,1980,no data
-Czechia,1981,no data
-Czechia,1982,no data
-Czechia,1983,no data
-Czechia,1984,no data
-Czechia,1985,no data
-Czechia,1986,no data
-Czechia,1987,no data
-Czechia,1988,no data
-Czechia,1989,no data
-Czechia,1990,no data
-Czechia,1991,no data
-Czechia,1992,no data
-Czechia,1993,no data
-Czechia,1994,no data
+Czechia,1980,0
+Czechia,1981,0
+Czechia,1982,0
+Czechia,1983,0
+Czechia,1984,0
+Czechia,1985,0
+Czechia,1986,0
+Czechia,1987,0
+Czechia,1988,0
+Czechia,1989,0
+Czechia,1990,0
+Czechia,1991,0
+Czechia,1992,0
+Czechia,1993,0
+Czechia,1994,0
 Czechia,1995,5820.043
 Czechia,1996,6529.042
 Czechia,1997,6030.633
@@ -2302,16 +2302,16 @@ Denmark,2025,75583.891
 Denmark,2026,78430.826
 Denmark,2027,81237.153
 Denmark,2028,84180.109
-Djibouti,1980,no data
-Djibouti,1981,no data
-Djibouti,1982,no data
-Djibouti,1983,no data
-Djibouti,1984,no data
-Djibouti,1985,no data
-Djibouti,1986,no data
-Djibouti,1987,no data
-Djibouti,1988,no data
-Djibouti,1989,no data
+Djibouti,1980,0
+Djibouti,1981,0
+Djibouti,1982,0
+Djibouti,1983,0
+Djibouti,1984,0
+Djibouti,1985,0
+Djibouti,1986,0
+Djibouti,1987,0
+Djibouti,1988,0
+Djibouti,1989,0
 Djibouti,1990,1076.215
 Djibouti,1991,1070.407
 Djibouti,1992,1091.835
@@ -2351,7 +2351,7 @@ Djibouti,2025,4300.275
 Djibouti,2026,4573.431
 Djibouti,2027,4866.029
 Djibouti,2028,5179.439
-Dominica,1980,no data
+Dominica,1980,0
 Dominica,1981,1112.642
 Dominica,1982,1217.573
 Dominica,1983,1346.688
@@ -2645,18 +2645,18 @@ Equatorial Guinea,2025,6325.008
 Equatorial Guinea,2026,6191.038
 Equatorial Guinea,2027,6132.928
 Equatorial Guinea,2028,6130.079
-Eritrea,1980,no data
-Eritrea,1981,no data
-Eritrea,1982,no data
-Eritrea,1983,no data
-Eritrea,1984,no data
-Eritrea,1985,no data
-Eritrea,1986,no data
-Eritrea,1987,no data
-Eritrea,1988,no data
-Eritrea,1989,no data
-Eritrea,1990,no data
-Eritrea,1991,no data
+Eritrea,1980,0
+Eritrea,1981,0
+Eritrea,1982,0
+Eritrea,1983,0
+Eritrea,1984,0
+Eritrea,1985,0
+Eritrea,1986,0
+Eritrea,1987,0
+Eritrea,1988,0
+Eritrea,1989,0
+Eritrea,1990,0
+Eritrea,1991,0
 Eritrea,1992,268.192
 Eritrea,1993,167.084
 Eritrea,1994,195.44
@@ -2685,28 +2685,28 @@ Eritrea,2016,655.424
 Eritrea,2017,557.857
 Eritrea,2018,580.845
 Eritrea,2019,566.731
-Eritrea,2020,no data
-Eritrea,2021,no data
-Eritrea,2022,no data
-Eritrea,2023,no data
-Eritrea,2024,no data
-Eritrea,2025,no data
-Eritrea,2026,no data
-Eritrea,2027,no data
-Eritrea,2028,no data
-Estonia,1980,no data
-Estonia,1981,no data
-Estonia,1982,no data
-Estonia,1983,no data
-Estonia,1984,no data
-Estonia,1985,no data
-Estonia,1986,no data
-Estonia,1987,no data
-Estonia,1988,no data
-Estonia,1989,no data
-Estonia,1990,no data
-Estonia,1991,no data
-Estonia,1992,no data
+Eritrea,2020,0
+Eritrea,2021,0
+Eritrea,2022,0
+Eritrea,2023,0
+Eritrea,2024,0
+Eritrea,2025,0
+Eritrea,2026,0
+Eritrea,2027,0
+Eritrea,2028,0
+Estonia,1980,0
+Estonia,1981,0
+Estonia,1982,0
+Estonia,1983,0
+Estonia,1984,0
+Estonia,1985,0
+Estonia,1986,0
+Estonia,1987,0
+Estonia,1988,0
+Estonia,1989,0
+Estonia,1990,0
+Estonia,1991,0
+Estonia,1992,0
 Estonia,1993,1194.189
 Estonia,1994,1711.271
 Estonia,1995,2721.005
@@ -3086,20 +3086,20 @@ Gambia,2025,1034.863
 Gambia,2026,1069.289
 Gambia,2027,1102.232
 Gambia,2028,1135.385
-Georgia,1980,no data
-Georgia,1981,no data
-Georgia,1982,no data
-Georgia,1983,no data
-Georgia,1984,no data
-Georgia,1985,no data
-Georgia,1986,no data
-Georgia,1987,no data
-Georgia,1988,no data
-Georgia,1989,no data
-Georgia,1990,no data
-Georgia,1991,no data
-Georgia,1992,no data
-Georgia,1993,no data
+Georgia,1980,0
+Georgia,1981,0
+Georgia,1982,0
+Georgia,1983,0
+Georgia,1984,0
+Georgia,1985,0
+Georgia,1986,0
+Georgia,1987,0
+Georgia,1988,0
+Georgia,1989,0
+Georgia,1990,0
+Georgia,1991,0
+Georgia,1992,0
+Georgia,1993,0
 Georgia,1994,172.501
 Georgia,1995,413.486
 Georgia,1996,688.363
@@ -3380,16 +3380,16 @@ Guatemala,2025,6047.541
 Guatemala,2026,6361.75
 Guatemala,2027,6698.866
 Guatemala,2028,7059.762
-Guinea,1980,no data
-Guinea,1981,no data
-Guinea,1982,no data
-Guinea,1983,no data
-Guinea,1984,no data
-Guinea,1985,no data
-Guinea,1986,no data
-Guinea,1987,no data
-Guinea,1988,no data
-Guinea,1989,no data
+Guinea,1980,0
+Guinea,1981,0
+Guinea,1982,0
+Guinea,1983,0
+Guinea,1984,0
+Guinea,1985,0
+Guinea,1986,0
+Guinea,1987,0
+Guinea,1988,0
+Guinea,1989,0
 Guinea,1990,616.321
 Guinea,1991,660.444
 Guinea,1992,678.626
@@ -3919,29 +3919,29 @@ Iran,2025,4544.143
 Iran,2026,4671.436
 Iran,2027,4814.14
 Iran,2028,4996.57
-Iraq,1980,no data
-Iraq,1981,no data
-Iraq,1982,no data
-Iraq,1983,no data
-Iraq,1984,no data
-Iraq,1985,no data
-Iraq,1986,no data
-Iraq,1987,no data
-Iraq,1988,no data
-Iraq,1989,no data
-Iraq,1990,no data
-Iraq,1991,no data
-Iraq,1992,no data
-Iraq,1993,no data
-Iraq,1994,no data
-Iraq,1995,no data
-Iraq,1996,no data
-Iraq,1997,no data
-Iraq,1998,no data
-Iraq,1999,no data
-Iraq,2000,no data
-Iraq,2001,no data
-Iraq,2002,no data
+Iraq,1980,0
+Iraq,1981,0
+Iraq,1982,0
+Iraq,1983,0
+Iraq,1984,0
+Iraq,1985,0
+Iraq,1986,0
+Iraq,1987,0
+Iraq,1988,0
+Iraq,1989,0
+Iraq,1990,0
+Iraq,1991,0
+Iraq,1992,0
+Iraq,1993,0
+Iraq,1994,0
+Iraq,1995,0
+Iraq,1996,0
+Iraq,1997,0
+Iraq,1998,0
+Iraq,1999,0
+Iraq,2000,0
+Iraq,2001,0
+Iraq,2002,0
 Iraq,2003,608.655
 Iraq,2004,1373.738
 Iraq,2005,1828.738
@@ -4262,18 +4262,18 @@ Jordan,2025,5376.491
 Jordan,2026,5656.979
 Jordan,2027,5943.186
 Jordan,2028,6139.45
-Kazakhstan,1980,no data
-Kazakhstan,1981,no data
-Kazakhstan,1982,no data
-Kazakhstan,1983,no data
-Kazakhstan,1984,no data
-Kazakhstan,1985,no data
-Kazakhstan,1986,no data
-Kazakhstan,1987,no data
-Kazakhstan,1988,no data
-Kazakhstan,1989,no data
-Kazakhstan,1990,no data
-Kazakhstan,1991,no data
+Kazakhstan,1980,0
+Kazakhstan,1981,0
+Kazakhstan,1982,0
+Kazakhstan,1983,0
+Kazakhstan,1984,0
+Kazakhstan,1985,0
+Kazakhstan,1986,0
+Kazakhstan,1987,0
+Kazakhstan,1988,0
+Kazakhstan,1989,0
+Kazakhstan,1990,0
+Kazakhstan,1991,0
 Kazakhstan,1992,168.645
 Kazakhstan,1993,304.849
 Kazakhstan,1994,751.98
@@ -4458,26 +4458,26 @@ Kiribati,2028,2283.546
 "Korea, South",2026,38077.231
 "Korea, South",2027,39776.205
 "Korea, South",2028,41505.377
-Kosovo,1980,no data
-Kosovo,1981,no data
-Kosovo,1982,no data
-Kosovo,1983,no data
-Kosovo,1984,no data
-Kosovo,1985,no data
-Kosovo,1986,no data
-Kosovo,1987,no data
-Kosovo,1988,no data
-Kosovo,1989,no data
-Kosovo,1990,no data
-Kosovo,1991,no data
-Kosovo,1992,no data
-Kosovo,1993,no data
-Kosovo,1994,no data
-Kosovo,1995,no data
-Kosovo,1996,no data
-Kosovo,1997,no data
-Kosovo,1998,no data
-Kosovo,1999,no data
+Kosovo,1980,0
+Kosovo,1981,0
+Kosovo,1982,0
+Kosovo,1983,0
+Kosovo,1984,0
+Kosovo,1985,0
+Kosovo,1986,0
+Kosovo,1987,0
+Kosovo,1988,0
+Kosovo,1989,0
+Kosovo,1990,0
+Kosovo,1991,0
+Kosovo,1992,0
+Kosovo,1993,0
+Kosovo,1994,0
+Kosovo,1995,0
+Kosovo,1996,0
+Kosovo,1997,0
+Kosovo,1998,0
+Kosovo,1999,0
 Kosovo,2000,1506.094
 Kosovo,2001,1704.288
 Kosovo,2002,1807.197
@@ -4507,19 +4507,19 @@ Kosovo,2025,6740.14
 Kosovo,2026,7125.646
 Kosovo,2027,7500.404
 Kosovo,2028,7850.636
-Kuwait,1980,no data
-Kuwait,1981,no data
-Kuwait,1982,no data
-Kuwait,1983,no data
-Kuwait,1984,no data
-Kuwait,1985,no data
-Kuwait,1986,no data
-Kuwait,1987,no data
-Kuwait,1988,no data
-Kuwait,1989,no data
-Kuwait,1990,no data
-Kuwait,1991,no data
-Kuwait,1992,no data
+Kuwait,1980,0
+Kuwait,1981,0
+Kuwait,1982,0
+Kuwait,1983,0
+Kuwait,1984,0
+Kuwait,1985,0
+Kuwait,1986,0
+Kuwait,1987,0
+Kuwait,1988,0
+Kuwait,1989,0
+Kuwait,1990,0
+Kuwait,1991,0
+Kuwait,1992,0
 Kuwait,1993,14556.85
 Kuwait,1994,13583.236
 Kuwait,1995,13879.046
@@ -4556,18 +4556,18 @@ Kuwait,2025,33376.568
 Kuwait,2026,33382.421
 Kuwait,2027,33460.763
 Kuwait,2028,33602.196
-Kyrgyzstan,1980,no data
-Kyrgyzstan,1981,no data
-Kyrgyzstan,1982,no data
-Kyrgyzstan,1983,no data
-Kyrgyzstan,1984,no data
-Kyrgyzstan,1985,no data
-Kyrgyzstan,1986,no data
-Kyrgyzstan,1987,no data
-Kyrgyzstan,1988,no data
-Kyrgyzstan,1989,no data
-Kyrgyzstan,1990,no data
-Kyrgyzstan,1991,no data
+Kyrgyzstan,1980,0
+Kyrgyzstan,1981,0
+Kyrgyzstan,1982,0
+Kyrgyzstan,1983,0
+Kyrgyzstan,1984,0
+Kyrgyzstan,1985,0
+Kyrgyzstan,1986,0
+Kyrgyzstan,1987,0
+Kyrgyzstan,1988,0
+Kyrgyzstan,1989,0
+Kyrgyzstan,1990,0
+Kyrgyzstan,1991,0
 Kyrgyzstan,1992,207.976
 Kyrgyzstan,1993,148.155
 Kyrgyzstan,1994,245.851
@@ -4654,18 +4654,18 @@ Laos,2025,1908.868
 Laos,2026,2005.252
 Laos,2027,2107.103
 Laos,2028,2217.66
-Latvia,1980,no data
-Latvia,1981,no data
-Latvia,1982,no data
-Latvia,1983,no data
-Latvia,1984,no data
-Latvia,1985,no data
-Latvia,1986,no data
-Latvia,1987,no data
-Latvia,1988,no data
-Latvia,1989,no data
-Latvia,1990,no data
-Latvia,1991,no data
+Latvia,1980,0
+Latvia,1981,0
+Latvia,1982,0
+Latvia,1983,0
+Latvia,1984,0
+Latvia,1985,0
+Latvia,1986,0
+Latvia,1987,0
+Latvia,1988,0
+Latvia,1989,0
+Latvia,1990,0
+Latvia,1991,0
 Latvia,1992,632.992
 Latvia,1993,1022.375
 Latvia,1994,1725.207
@@ -4746,12 +4746,12 @@ Lebanon,2019,7421.491
 Lebanon,2020,3588.705
 Lebanon,2021,3044.801
 Lebanon,2022,3283.414
-Lebanon,2023,no data
-Lebanon,2024,no data
-Lebanon,2025,no data
-Lebanon,2026,no data
-Lebanon,2027,no data
-Lebanon,2028,no data
+Lebanon,2023,0
+Lebanon,2024,0
+Lebanon,2025,0
+Lebanon,2026,0
+Lebanon,2027,0
+Lebanon,2028,0
 Lesotho,1980,334.43
 Lesotho,1981,330.808
 Lesotho,1982,268.415
@@ -4801,26 +4801,26 @@ Lesotho,2025,1211.977
 Lesotho,2026,1247.915
 Lesotho,2027,1274.731
 Lesotho,2028,1301.506
-Liberia,1980,no data
-Liberia,1981,no data
-Liberia,1982,no data
-Liberia,1983,no data
-Liberia,1984,no data
-Liberia,1985,no data
-Liberia,1986,no data
-Liberia,1987,no data
-Liberia,1988,no data
-Liberia,1989,no data
-Liberia,1990,no data
-Liberia,1991,no data
-Liberia,1992,no data
-Liberia,1993,no data
-Liberia,1994,no data
-Liberia,1995,no data
-Liberia,1996,no data
-Liberia,1997,no data
-Liberia,1998,no data
-Liberia,1999,no data
+Liberia,1980,0
+Liberia,1981,0
+Liberia,1982,0
+Liberia,1983,0
+Liberia,1984,0
+Liberia,1985,0
+Liberia,1986,0
+Liberia,1987,0
+Liberia,1988,0
+Liberia,1989,0
+Liberia,1990,0
+Liberia,1991,0
+Liberia,1992,0
+Liberia,1993,0
+Liberia,1994,0
+Liberia,1995,0
+Liberia,1996,0
+Liberia,1997,0
+Liberia,1998,0
+Liberia,1999,0
 Liberia,2000,303.143
 Liberia,2001,305.909
 Liberia,2002,311.768
@@ -4899,21 +4899,21 @@ Libya,2025,6638.707
 Libya,2026,6774.276
 Libya,2027,6775.583
 Libya,2028,6808.797
-Lithuania,1980,no data
-Lithuania,1981,no data
-Lithuania,1982,no data
-Lithuania,1983,no data
-Lithuania,1984,no data
-Lithuania,1985,no data
-Lithuania,1986,no data
-Lithuania,1987,no data
-Lithuania,1988,no data
-Lithuania,1989,no data
-Lithuania,1990,no data
-Lithuania,1991,no data
-Lithuania,1992,no data
-Lithuania,1993,no data
-Lithuania,1994,no data
+Lithuania,1980,0
+Lithuania,1981,0
+Lithuania,1982,0
+Lithuania,1983,0
+Lithuania,1984,0
+Lithuania,1985,0
+Lithuania,1986,0
+Lithuania,1987,0
+Lithuania,1988,0
+Lithuania,1989,0
+Lithuania,1990,0
+Lithuania,1991,0
+Lithuania,1992,0
+Lithuania,1993,0
+Lithuania,1994,0
 Lithuania,1995,1845.103
 Lithuania,1996,2327.496
 Lithuania,1997,2830.268
@@ -4997,27 +4997,27 @@ Luxembourg,2025,144960.312
 Luxembourg,2026,148829.206
 Luxembourg,2027,151657.777
 Luxembourg,2028,154419.811
-Macao,1980,no data
-Macao,1981,no data
-Macao,1982,no data
-Macao,1983,no data
-Macao,1984,no data
-Macao,1985,no data
-Macao,1986,no data
-Macao,1987,no data
-Macao,1988,no data
-Macao,1989,no data
-Macao,1990,no data
-Macao,1991,no data
-Macao,1992,no data
-Macao,1993,no data
-Macao,1994,no data
-Macao,1995,no data
-Macao,1996,no data
-Macao,1997,no data
-Macao,1998,no data
-Macao,1999,no data
-Macao,2000,no data
+Macao,1980,0
+Macao,1981,0
+Macao,1982,0
+Macao,1983,0
+Macao,1984,0
+Macao,1985,0
+Macao,1986,0
+Macao,1987,0
+Macao,1988,0
+Macao,1989,0
+Macao,1990,0
+Macao,1991,0
+Macao,1992,0
+Macao,1993,0
+Macao,1994,0
+Macao,1995,0
+Macao,1996,0
+Macao,1997,0
+Macao,1998,0
+Macao,1999,0
+Macao,2000,0
 Macao,2001,15723.751
 Macao,2002,16733.977
 Macao,2003,18461.835
@@ -5340,23 +5340,23 @@ Malta,2025,43332.126
 Malta,2026,45559.736
 Malta,2027,47613.881
 Malta,2028,49628.957
-Marshall Islands,1980,no data
-Marshall Islands,1981,no data
-Marshall Islands,1982,no data
-Marshall Islands,1983,no data
-Marshall Islands,1984,no data
-Marshall Islands,1985,no data
-Marshall Islands,1986,no data
-Marshall Islands,1987,no data
-Marshall Islands,1988,no data
-Marshall Islands,1989,no data
-Marshall Islands,1990,no data
-Marshall Islands,1991,no data
-Marshall Islands,1992,no data
-Marshall Islands,1993,no data
-Marshall Islands,1994,no data
-Marshall Islands,1995,no data
-Marshall Islands,1996,no data
+Marshall Islands,1980,0
+Marshall Islands,1981,0
+Marshall Islands,1982,0
+Marshall Islands,1983,0
+Marshall Islands,1984,0
+Marshall Islands,1985,0
+Marshall Islands,1986,0
+Marshall Islands,1987,0
+Marshall Islands,1988,0
+Marshall Islands,1989,0
+Marshall Islands,1990,0
+Marshall Islands,1991,0
+Marshall Islands,1992,0
+Marshall Islands,1993,0
+Marshall Islands,1994,0
+Marshall Islands,1995,0
+Marshall Islands,1996,0
 Marshall Islands,1997,2231.747
 Marshall Islands,1998,2242.037
 Marshall Islands,1999,2230.645
@@ -5389,16 +5389,16 @@ Marshall Islands,2025,6647.346
 Marshall Islands,2026,6841.887
 Marshall Islands,2027,7025.151
 Marshall Islands,2028,7213.325
-Mauritania,1980,no data
-Mauritania,1981,no data
-Mauritania,1982,no data
-Mauritania,1983,no data
-Mauritania,1984,no data
-Mauritania,1985,no data
-Mauritania,1986,no data
-Mauritania,1987,no data
-Mauritania,1988,no data
-Mauritania,1989,no data
+Mauritania,1980,0
+Mauritania,1981,0
+Mauritania,1982,0
+Mauritania,1983,0
+Mauritania,1984,0
+Mauritania,1985,0
+Mauritania,1986,0
+Mauritania,1987,0
+Mauritania,1988,0
+Mauritania,1989,0
 Mauritania,1990,898.741
 Mauritania,1991,1002.023
 Mauritania,1992,1026.904
@@ -5536,21 +5536,21 @@ Mexico,2025,15606.63
 Mexico,2026,16159.931
 Mexico,2027,16699.129
 Mexico,2028,17287.868
-Micronesia,1980,no data
-Micronesia,1981,no data
-Micronesia,1982,no data
-Micronesia,1983,no data
-Micronesia,1984,no data
-Micronesia,1985,no data
-Micronesia,1986,no data
-Micronesia,1987,no data
-Micronesia,1988,no data
-Micronesia,1989,no data
-Micronesia,1990,no data
-Micronesia,1991,no data
-Micronesia,1992,no data
-Micronesia,1993,no data
-Micronesia,1994,no data
+Micronesia,1980,0
+Micronesia,1981,0
+Micronesia,1982,0
+Micronesia,1983,0
+Micronesia,1984,0
+Micronesia,1985,0
+Micronesia,1986,0
+Micronesia,1987,0
+Micronesia,1988,0
+Micronesia,1989,0
+Micronesia,1990,0
+Micronesia,1991,0
+Micronesia,1992,0
+Micronesia,1993,0
+Micronesia,1994,0
 Micronesia,1995,2094.48
 Micronesia,1996,2060.874
 Micronesia,1997,1944.21
@@ -5585,18 +5585,18 @@ Micronesia,2025,4888.36
 Micronesia,2026,5057.525
 Micronesia,2027,5208.911
 Micronesia,2028,5336.099
-Moldova,1980,no data
-Moldova,1981,no data
-Moldova,1982,no data
-Moldova,1983,no data
-Moldova,1984,no data
-Moldova,1985,no data
-Moldova,1986,no data
-Moldova,1987,no data
-Moldova,1988,no data
-Moldova,1989,no data
-Moldova,1990,no data
-Moldova,1991,no data
+Moldova,1980,0
+Moldova,1981,0
+Moldova,1982,0
+Moldova,1983,0
+Moldova,1984,0
+Moldova,1985,0
+Moldova,1986,0
+Moldova,1987,0
+Moldova,1988,0
+Moldova,1989,0
+Moldova,1990,0
+Moldova,1991,0
 Moldova,1992,290.058
 Moldova,1993,373.927
 Moldova,1994,389.592
@@ -5634,16 +5634,16 @@ Moldova,2025,7449.462
 Moldova,2026,8059.457
 Moldova,2027,8584.405
 Moldova,2028,9599.962
-Mongolia,1980,no data
-Mongolia,1981,no data
-Mongolia,1982,no data
-Mongolia,1983,no data
-Mongolia,1984,no data
-Mongolia,1985,no data
-Mongolia,1986,no data
-Mongolia,1987,no data
-Mongolia,1988,no data
-Mongolia,1989,no data
+Mongolia,1980,0
+Mongolia,1981,0
+Mongolia,1982,0
+Mongolia,1983,0
+Mongolia,1984,0
+Mongolia,1985,0
+Mongolia,1986,0
+Mongolia,1987,0
+Mongolia,1988,0
+Mongolia,1989,0
 Mongolia,1990,1288.653
 Mongolia,1991,1324.852
 Mongolia,1992,722.215
@@ -5683,26 +5683,26 @@ Mongolia,2025,5442.558
 Mongolia,2026,5485.885
 Mongolia,2027,5695.037
 Mongolia,2028,5919.766
-Montenegro,1980,no data
-Montenegro,1981,no data
-Montenegro,1982,no data
-Montenegro,1983,no data
-Montenegro,1984,no data
-Montenegro,1985,no data
-Montenegro,1986,no data
-Montenegro,1987,no data
-Montenegro,1988,no data
-Montenegro,1989,no data
-Montenegro,1990,no data
-Montenegro,1991,no data
-Montenegro,1992,no data
-Montenegro,1993,no data
-Montenegro,1994,no data
-Montenegro,1995,no data
-Montenegro,1996,no data
-Montenegro,1997,no data
-Montenegro,1998,no data
-Montenegro,1999,no data
+Montenegro,1980,0
+Montenegro,1981,0
+Montenegro,1982,0
+Montenegro,1983,0
+Montenegro,1984,0
+Montenegro,1985,0
+Montenegro,1986,0
+Montenegro,1987,0
+Montenegro,1988,0
+Montenegro,1989,0
+Montenegro,1990,0
+Montenegro,1991,0
+Montenegro,1992,0
+Montenegro,1993,0
+Montenegro,1994,0
+Montenegro,1995,0
+Montenegro,1996,0
+Montenegro,1997,0
+Montenegro,1998,0
+Montenegro,1999,0
 Montenegro,2000,1596.628
 Montenegro,2001,1893.716
 Montenegro,2002,2081.045
@@ -5830,24 +5830,24 @@ Mozambique,2025,717.772
 Mozambique,2026,738.089
 Mozambique,2027,826.559
 Mozambique,2028,919.247
-Burma,1980,no data
-Burma,1981,no data
-Burma,1982,no data
-Burma,1983,no data
-Burma,1984,no data
-Burma,1985,no data
-Burma,1986,no data
-Burma,1987,no data
-Burma,1988,no data
-Burma,1989,no data
-Burma,1990,no data
-Burma,1991,no data
-Burma,1992,no data
-Burma,1993,no data
-Burma,1994,no data
-Burma,1995,no data
-Burma,1996,no data
-Burma,1997,no data
+Burma,1980,0
+Burma,1981,0
+Burma,1982,0
+Burma,1983,0
+Burma,1984,0
+Burma,1985,0
+Burma,1986,0
+Burma,1987,0
+Burma,1988,0
+Burma,1989,0
+Burma,1990,0
+Burma,1991,0
+Burma,1992,0
+Burma,1993,0
+Burma,1994,0
+Burma,1995,0
+Burma,1996,0
+Burma,1997,0
 Burma,1998,109.093
 Burma,1999,134.372
 Burma,2000,159.287
@@ -5879,15 +5879,15 @@ Burma,2025,1525.445
 Burma,2026,1597.757
 Burma,2027,1675.172
 Burma,2028,1765.453
-Namibia,1980,no data
-Namibia,1981,no data
-Namibia,1982,no data
-Namibia,1983,no data
-Namibia,1984,no data
-Namibia,1985,no data
-Namibia,1986,no data
-Namibia,1987,no data
-Namibia,1988,no data
+Namibia,1980,0
+Namibia,1981,0
+Namibia,1982,0
+Namibia,1983,0
+Namibia,1984,0
+Namibia,1985,0
+Namibia,1986,0
+Namibia,1987,0
+Namibia,1988,0
 Namibia,1989,1765.605
 Namibia,1990,1908.834
 Namibia,1991,2025.611
@@ -5928,30 +5928,30 @@ Namibia,2025,5293.877
 Namibia,2026,5458.072
 Namibia,2027,5588.044
 Namibia,2028,5704.157
-Nauru,1980,no data
-Nauru,1981,no data
-Nauru,1982,no data
-Nauru,1983,no data
-Nauru,1984,no data
-Nauru,1985,no data
-Nauru,1986,no data
-Nauru,1987,no data
-Nauru,1988,no data
-Nauru,1989,no data
-Nauru,1990,no data
-Nauru,1991,no data
-Nauru,1992,no data
-Nauru,1993,no data
-Nauru,1994,no data
-Nauru,1995,no data
-Nauru,1996,no data
-Nauru,1997,no data
-Nauru,1998,no data
-Nauru,1999,no data
-Nauru,2000,no data
-Nauru,2001,no data
-Nauru,2002,no data
-Nauru,2003,no data
+Nauru,1980,0
+Nauru,1981,0
+Nauru,1982,0
+Nauru,1983,0
+Nauru,1984,0
+Nauru,1985,0
+Nauru,1986,0
+Nauru,1987,0
+Nauru,1988,0
+Nauru,1989,0
+Nauru,1990,0
+Nauru,1991,0
+Nauru,1992,0
+Nauru,1993,0
+Nauru,1994,0
+Nauru,1995,0
+Nauru,1996,0
+Nauru,1997,0
+Nauru,1998,0
+Nauru,1999,0
+Nauru,2000,0
+Nauru,2001,0
+Nauru,2002,0
+Nauru,2003,0
 Nauru,2004,3066.932
 Nauru,2005,3053.016
 Nauru,2006,3144.743
@@ -6124,20 +6124,20 @@ New Zealand,2025,48407.444
 New Zealand,2026,50361.411
 New Zealand,2027,52358.227
 New Zealand,2028,54338.686
-Nicaragua,1980,no data
-Nicaragua,1981,no data
-Nicaragua,1982,no data
-Nicaragua,1983,no data
-Nicaragua,1984,no data
-Nicaragua,1985,no data
-Nicaragua,1986,no data
-Nicaragua,1987,no data
-Nicaragua,1988,no data
-Nicaragua,1989,no data
-Nicaragua,1990,no data
-Nicaragua,1991,no data
-Nicaragua,1992,no data
-Nicaragua,1993,no data
+Nicaragua,1980,0
+Nicaragua,1981,0
+Nicaragua,1982,0
+Nicaragua,1983,0
+Nicaragua,1984,0
+Nicaragua,1985,0
+Nicaragua,1986,0
+Nicaragua,1987,0
+Nicaragua,1988,0
+Nicaragua,1989,0
+Nicaragua,1990,0
+Nicaragua,1991,0
+Nicaragua,1992,0
+Nicaragua,1993,0
 Nicaragua,1994,898.199
 Nicaragua,1995,935.34
 Nicaragua,1996,947.14
@@ -6222,16 +6222,16 @@ Niger,2025,730.875
 Niger,2026,764.496
 Niger,2027,794.259
 Niger,2028,825.217
-Nigeria,1980,no data
-Nigeria,1981,no data
-Nigeria,1982,no data
-Nigeria,1983,no data
-Nigeria,1984,no data
-Nigeria,1985,no data
-Nigeria,1986,no data
-Nigeria,1987,no data
-Nigeria,1988,no data
-Nigeria,1989,no data
+Nigeria,1980,0
+Nigeria,1981,0
+Nigeria,1982,0
+Nigeria,1983,0
+Nigeria,1984,0
+Nigeria,1985,0
+Nigeria,1986,0
+Nigeria,1987,0
+Nigeria,1988,0
+Nigeria,1989,0
 Nigeria,1990,652.915
 Nigeria,1991,615.663
 Nigeria,1992,521.905
@@ -6271,18 +6271,18 @@ Nigeria,2025,1962.767
 Nigeria,2026,2191.995
 Nigeria,2027,2447.192
 Nigeria,2028,2719.367
-North Macedonia ,1980,no data
-North Macedonia ,1981,no data
-North Macedonia ,1982,no data
-North Macedonia ,1983,no data
-North Macedonia ,1984,no data
-North Macedonia ,1985,no data
-North Macedonia ,1986,no data
-North Macedonia ,1987,no data
-North Macedonia ,1988,no data
-North Macedonia ,1989,no data
-North Macedonia ,1990,no data
-North Macedonia ,1991,no data
+North Macedonia ,1980,0
+North Macedonia ,1981,0
+North Macedonia ,1982,0
+North Macedonia ,1983,0
+North Macedonia ,1984,0
+North Macedonia ,1985,0
+North Macedonia ,1986,0
+North Macedonia ,1987,0
+North Macedonia ,1988,0
+North Macedonia ,1989,0
+North Macedonia ,1990,0
+North Macedonia ,1991,0
 North Macedonia ,1992,1263.863
 North Macedonia ,1993,1383.543
 North Macedonia ,1994,1824.418
@@ -6462,31 +6462,31 @@ Pakistan,2020,1376.512
 Pakistan,2021,1565.575
 Pakistan,2022,1650.279
 Pakistan,2023,1471.098
-Pakistan,2024,no data
-Pakistan,2025,no data
-Pakistan,2026,no data
-Pakistan,2027,no data
-Pakistan,2028,no data
-Palau,1980,no data
-Palau,1981,no data
-Palau,1982,no data
-Palau,1983,no data
-Palau,1984,no data
-Palau,1985,no data
-Palau,1986,no data
-Palau,1987,no data
-Palau,1988,no data
-Palau,1989,no data
-Palau,1990,no data
-Palau,1991,no data
-Palau,1992,no data
-Palau,1993,no data
-Palau,1994,no data
-Palau,1995,no data
-Palau,1996,no data
-Palau,1997,no data
-Palau,1998,no data
-Palau,1999,no data
+Pakistan,2024,0
+Pakistan,2025,0
+Pakistan,2026,0
+Pakistan,2027,0
+Pakistan,2028,0
+Palau,1980,0
+Palau,1981,0
+Palau,1982,0
+Palau,1983,0
+Palau,1984,0
+Palau,1985,0
+Palau,1986,0
+Palau,1987,0
+Palau,1988,0
+Palau,1989,0
+Palau,1990,0
+Palau,1991,0
+Palau,1992,0
+Palau,1993,0
+Palau,1994,0
+Palau,1995,0
+Palau,1996,0
+Palau,1997,0
+Palau,1998,0
+Palau,1999,0
 Palau,2000,7900.288
 Palau,2001,8304.592
 Palau,2002,8404.127
@@ -7006,18 +7006,18 @@ Romania,2025,21684.251
 Romania,2026,23316.28
 Romania,2027,24804.914
 Romania,2028,26272.514
-Russia,1980,no data
-Russia,1981,no data
-Russia,1982,no data
-Russia,1983,no data
-Russia,1984,no data
-Russia,1985,no data
-Russia,1986,no data
-Russia,1987,no data
-Russia,1988,no data
-Russia,1989,no data
-Russia,1990,no data
-Russia,1991,no data
+Russia,1980,0
+Russia,1981,0
+Russia,1982,0
+Russia,1983,0
+Russia,1984,0
+Russia,1985,0
+Russia,1986,0
+Russia,1987,0
+Russia,1988,0
+Russia,1989,0
+Russia,1990,0
+Russia,1991,0
 Russia,1992,482.767
 Russia,1993,1322.006
 Russia,1994,1979.411
@@ -7251,24 +7251,24 @@ Saint Vincent and the Grenadines,2025,10637.094
 Saint Vincent and the Grenadines,2026,11141.289
 Saint Vincent and the Grenadines,2027,11658.032
 Saint Vincent and the Grenadines,2028,12198.741
-Samoa,1980,no data
-Samoa,1981,no data
-Samoa,1982,no data
-Samoa,1983,no data
-Samoa,1984,no data
-Samoa,1985,no data
-Samoa,1986,no data
-Samoa,1987,no data
-Samoa,1988,no data
-Samoa,1989,no data
-Samoa,1990,no data
-Samoa,1991,no data
-Samoa,1992,no data
-Samoa,1993,no data
-Samoa,1994,no data
-Samoa,1995,no data
-Samoa,1996,no data
-Samoa,1997,no data
+Samoa,1980,0
+Samoa,1981,0
+Samoa,1982,0
+Samoa,1983,0
+Samoa,1984,0
+Samoa,1985,0
+Samoa,1986,0
+Samoa,1987,0
+Samoa,1988,0
+Samoa,1989,0
+Samoa,1990,0
+Samoa,1991,0
+Samoa,1992,0
+Samoa,1993,0
+Samoa,1994,0
+Samoa,1995,0
+Samoa,1996,0
+Samoa,1997,0
 Samoa,1998,1655.952
 Samoa,1999,1509.117
 Samoa,2000,1552.03
@@ -7300,30 +7300,30 @@ Samoa,2025,5128.457
 Samoa,2026,5377.417
 Samoa,2027,5612.719
 Samoa,2028,5835.08
-San Marino,1980,no data
-San Marino,1981,no data
-San Marino,1982,no data
-San Marino,1983,no data
-San Marino,1984,no data
-San Marino,1985,no data
-San Marino,1986,no data
-San Marino,1987,no data
-San Marino,1988,no data
-San Marino,1989,no data
-San Marino,1990,no data
-San Marino,1991,no data
-San Marino,1992,no data
-San Marino,1993,no data
-San Marino,1994,no data
-San Marino,1995,no data
-San Marino,1996,no data
-San Marino,1997,no data
-San Marino,1998,no data
-San Marino,1999,no data
-San Marino,2000,no data
-San Marino,2001,no data
-San Marino,2002,no data
-San Marino,2003,no data
+San Marino,1980,0
+San Marino,1981,0
+San Marino,1982,0
+San Marino,1983,0
+San Marino,1984,0
+San Marino,1985,0
+San Marino,1986,0
+San Marino,1987,0
+San Marino,1988,0
+San Marino,1989,0
+San Marino,1990,0
+San Marino,1991,0
+San Marino,1992,0
+San Marino,1993,0
+San Marino,1994,0
+San Marino,1995,0
+San Marino,1996,0
+San Marino,1997,0
+San Marino,1998,0
+San Marino,1999,0
+San Marino,2000,0
+San Marino,2001,0
+San Marino,2002,0
+San Marino,2003,0
 San Marino,2004,59313.405
 San Marino,2005,61150.61
 San Marino,2006,64498.508
@@ -7447,23 +7447,23 @@ Senegal,2025,2068.859
 Senegal,2026,2163.521
 Senegal,2027,2249.293
 Senegal,2028,2377.78
-Serbia,1980,no data
-Serbia,1981,no data
-Serbia,1982,no data
-Serbia,1983,no data
-Serbia,1984,no data
-Serbia,1985,no data
-Serbia,1986,no data
-Serbia,1987,no data
-Serbia,1988,no data
-Serbia,1989,no data
-Serbia,1990,no data
-Serbia,1991,no data
-Serbia,1992,no data
-Serbia,1993,no data
-Serbia,1994,no data
-Serbia,1995,no data
-Serbia,1996,no data
+Serbia,1980,0
+Serbia,1981,0
+Serbia,1982,0
+Serbia,1983,0
+Serbia,1984,0
+Serbia,1985,0
+Serbia,1986,0
+Serbia,1987,0
+Serbia,1988,0
+Serbia,1989,0
+Serbia,1990,0
+Serbia,1991,0
+Serbia,1992,0
+Serbia,1993,0
+Serbia,1994,0
+Serbia,1995,0
+Serbia,1996,0
 Serbia,1997,2417.326
 Serbia,1998,1895.421
 Serbia,1999,1587.882
@@ -7643,19 +7643,19 @@ Singapore,2025,95922.794
 Singapore,2026,99984.451
 Singapore,2027,103993.11
 Singapore,2028,108204.034
-Slovakia,1980,no data
-Slovakia,1981,no data
-Slovakia,1982,no data
-Slovakia,1983,no data
-Slovakia,1984,no data
-Slovakia,1985,no data
-Slovakia,1986,no data
-Slovakia,1987,no data
-Slovakia,1988,no data
-Slovakia,1989,no data
-Slovakia,1990,no data
-Slovakia,1991,no data
-Slovakia,1992,no data
+Slovakia,1980,0
+Slovakia,1981,0
+Slovakia,1982,0
+Slovakia,1983,0
+Slovakia,1984,0
+Slovakia,1985,0
+Slovakia,1986,0
+Slovakia,1987,0
+Slovakia,1988,0
+Slovakia,1989,0
+Slovakia,1990,0
+Slovakia,1991,0
+Slovakia,1992,0
 Slovakia,1993,2571.845
 Slovakia,1994,2950.857
 Slovakia,1995,3711.945
@@ -7692,18 +7692,18 @@ Slovakia,2025,28310.814
 Slovakia,2026,29718.748
 Slovakia,2027,30972.307
 Slovakia,2028,32300.319
-Slovenia,1980,no data
-Slovenia,1981,no data
-Slovenia,1982,no data
-Slovenia,1983,no data
-Slovenia,1984,no data
-Slovenia,1985,no data
-Slovenia,1986,no data
-Slovenia,1987,no data
-Slovenia,1988,no data
-Slovenia,1989,no data
-Slovenia,1990,no data
-Slovenia,1991,no data
+Slovenia,1980,0
+Slovenia,1981,0
+Slovenia,1982,0
+Slovenia,1983,0
+Slovenia,1984,0
+Slovenia,1985,0
+Slovenia,1986,0
+Slovenia,1987,0
+Slovenia,1988,0
+Slovenia,1989,0
+Slovenia,1990,0
+Slovenia,1991,0
 Slovenia,1992,9639.262
 Slovenia,1993,8357.859
 Slovenia,1994,8468.162
@@ -7790,38 +7790,38 @@ Solomon Islands,2025,2459.537
 Solomon Islands,2026,2549.74
 Solomon Islands,2027,2647.986
 Solomon Islands,2028,2747.293
-Somalia,1980,no data
-Somalia,1981,no data
-Somalia,1982,no data
-Somalia,1983,no data
-Somalia,1984,no data
-Somalia,1985,no data
-Somalia,1986,no data
-Somalia,1987,no data
-Somalia,1988,no data
-Somalia,1989,no data
-Somalia,1990,no data
-Somalia,1991,no data
-Somalia,1992,no data
-Somalia,1993,no data
-Somalia,1994,no data
-Somalia,1995,no data
-Somalia,1996,no data
-Somalia,1997,no data
-Somalia,1998,no data
-Somalia,1999,no data
-Somalia,2000,no data
-Somalia,2001,no data
-Somalia,2002,no data
-Somalia,2003,no data
-Somalia,2004,no data
-Somalia,2005,no data
-Somalia,2006,no data
-Somalia,2007,no data
-Somalia,2008,no data
-Somalia,2009,no data
-Somalia,2010,no data
-Somalia,2011,no data
+Somalia,1980,0
+Somalia,1981,0
+Somalia,1982,0
+Somalia,1983,0
+Somalia,1984,0
+Somalia,1985,0
+Somalia,1986,0
+Somalia,1987,0
+Somalia,1988,0
+Somalia,1989,0
+Somalia,1990,0
+Somalia,1991,0
+Somalia,1992,0
+Somalia,1993,0
+Somalia,1994,0
+Somalia,1995,0
+Somalia,1996,0
+Somalia,1997,0
+Somalia,1998,0
+Somalia,1999,0
+Somalia,2000,0
+Somalia,2001,0
+Somalia,2002,0
+Somalia,2003,0
+Somalia,2004,0
+Somalia,2005,0
+Somalia,2006,0
+Somalia,2007,0
+Somalia,2008,0
+Somalia,2009,0
+Somalia,2010,0
+Somalia,2011,0
 Somalia,2012,437.511
 Somalia,2013,481.926
 Somalia,2014,514.686
@@ -7888,37 +7888,37 @@ South Africa,2025,6590.219
 South Africa,2026,6717.186
 South Africa,2027,6814.567
 South Africa,2028,6916.592
-South Sudan,1980,no data
-South Sudan,1981,no data
-South Sudan,1982,no data
-South Sudan,1983,no data
-South Sudan,1984,no data
-South Sudan,1985,no data
-South Sudan,1986,no data
-South Sudan,1987,no data
-South Sudan,1988,no data
-South Sudan,1989,no data
-South Sudan,1990,no data
-South Sudan,1991,no data
-South Sudan,1992,no data
-South Sudan,1993,no data
-South Sudan,1994,no data
-South Sudan,1995,no data
-South Sudan,1996,no data
-South Sudan,1997,no data
-South Sudan,1998,no data
-South Sudan,1999,no data
-South Sudan,2000,no data
-South Sudan,2001,no data
-South Sudan,2002,no data
-South Sudan,2003,no data
-South Sudan,2004,no data
-South Sudan,2005,no data
-South Sudan,2006,no data
-South Sudan,2007,no data
-South Sudan,2008,no data
-South Sudan,2009,no data
-South Sudan,2010,no data
+South Sudan,1980,0
+South Sudan,1981,0
+South Sudan,1982,0
+South Sudan,1983,0
+South Sudan,1984,0
+South Sudan,1985,0
+South Sudan,1986,0
+South Sudan,1987,0
+South Sudan,1988,0
+South Sudan,1989,0
+South Sudan,1990,0
+South Sudan,1991,0
+South Sudan,1992,0
+South Sudan,1993,0
+South Sudan,1994,0
+South Sudan,1995,0
+South Sudan,1996,0
+South Sudan,1997,0
+South Sudan,1998,0
+South Sudan,1999,0
+South Sudan,2000,0
+South Sudan,2001,0
+South Sudan,2002,0
+South Sudan,2003,0
+South Sudan,2004,0
+South Sudan,2005,0
+South Sudan,2006,0
+South Sudan,2007,0
+South Sudan,2008,0
+South Sudan,2009,0
+South Sudan,2010,0
 South Sudan,2011,1659.546
 South Sudan,2012,1041.463
 South Sudan,2013,1337.232
@@ -8029,12 +8029,12 @@ Sri Lanka,2019,4082.694
 Sri Lanka,2020,3852.39
 Sri Lanka,2021,3996.572
 Sri Lanka,2022,3341.996
-Sri Lanka,2023,no data
-Sri Lanka,2024,no data
-Sri Lanka,2025,no data
-Sri Lanka,2026,no data
-Sri Lanka,2027,no data
-Sri Lanka,2028,no data
+Sri Lanka,2023,0
+Sri Lanka,2024,0
+Sri Lanka,2025,0
+Sri Lanka,2026,0
+Sri Lanka,2027,0
+Sri Lanka,2028,0
 Sudan,1980,486.908
 Sudan,1981,339.389
 Sudan,1982,239.807
@@ -8084,16 +8084,16 @@ Sudan,2025,519.984
 Sudan,2026,513.974
 Sudan,2027,507.435
 Sudan,2028,500.45
-Suriname,1980,no data
-Suriname,1981,no data
-Suriname,1982,no data
-Suriname,1983,no data
-Suriname,1984,no data
-Suriname,1985,no data
-Suriname,1986,no data
-Suriname,1987,no data
-Suriname,1988,no data
-Suriname,1989,no data
+Suriname,1980,0
+Suriname,1981,0
+Suriname,1982,0
+Suriname,1983,0
+Suriname,1984,0
+Suriname,1985,0
+Suriname,1986,0
+Suriname,1987,0
+Suriname,1988,0
+Suriname,1989,0
 Suriname,1990,1413.616
 Suriname,1991,1535.96
 Suriname,1992,1406.579
@@ -8262,24 +8262,24 @@ Syria,2007,2016.052
 Syria,2008,2557.211
 Syria,2009,2557.267
 Syria,2010,2806.685
-Syria,2011,no data
-Syria,2012,no data
-Syria,2013,no data
-Syria,2014,no data
-Syria,2015,no data
-Syria,2016,no data
-Syria,2017,no data
-Syria,2018,no data
-Syria,2019,no data
-Syria,2020,no data
-Syria,2021,no data
-Syria,2022,no data
-Syria,2023,no data
-Syria,2024,no data
-Syria,2025,no data
-Syria,2026,no data
-Syria,2027,no data
-Syria,2028,no data
+Syria,2011,0
+Syria,2012,0
+Syria,2013,0
+Syria,2014,0
+Syria,2015,0
+Syria,2016,0
+Syria,2017,0
+Syria,2018,0
+Syria,2019,0
+Syria,2020,0
+Syria,2021,0
+Syria,2022,0
+Syria,2023,0
+Syria,2024,0
+Syria,2025,0
+Syria,2026,0
+Syria,2027,0
+Syria,2028,0
 São Tomé and Príncipe,1980,775.709
 São Tomé and Príncipe,1981,931.011
 São Tomé and Príncipe,1982,876.128
@@ -8378,18 +8378,18 @@ Taiwan,2025,36098.604
 Taiwan,2026,38111.965
 Taiwan,2027,39928.977
 Taiwan,2028,41276.254
-Tajikistan,1980,no data
-Tajikistan,1981,no data
-Tajikistan,1982,no data
-Tajikistan,1983,no data
-Tajikistan,1984,no data
-Tajikistan,1985,no data
-Tajikistan,1986,no data
-Tajikistan,1987,no data
-Tajikistan,1988,no data
-Tajikistan,1989,no data
-Tajikistan,1990,no data
-Tajikistan,1991,no data
+Tajikistan,1980,0
+Tajikistan,1981,0
+Tajikistan,1982,0
+Tajikistan,1983,0
+Tajikistan,1984,0
+Tajikistan,1985,0
+Tajikistan,1986,0
+Tajikistan,1987,0
+Tajikistan,1988,0
+Tajikistan,1989,0
+Tajikistan,1990,0
+Tajikistan,1991,0
 Tajikistan,1992,52.622
 Tajikistan,1993,121.645
 Tajikistan,1994,147.923
@@ -8525,26 +8525,26 @@ Thailand,2025,8242.551
 Thailand,2026,8718.003
 Thailand,2027,9185.93
 Thailand,2028,9697.607
-Timor-Leste,1980,no data
-Timor-Leste,1981,no data
-Timor-Leste,1982,no data
-Timor-Leste,1983,no data
-Timor-Leste,1984,no data
-Timor-Leste,1985,no data
-Timor-Leste,1986,no data
-Timor-Leste,1987,no data
-Timor-Leste,1988,no data
-Timor-Leste,1989,no data
-Timor-Leste,1990,no data
-Timor-Leste,1991,no data
-Timor-Leste,1992,no data
-Timor-Leste,1993,no data
-Timor-Leste,1994,no data
-Timor-Leste,1995,no data
-Timor-Leste,1996,no data
-Timor-Leste,1997,no data
-Timor-Leste,1998,no data
-Timor-Leste,1999,no data
+Timor-Leste,1980,0
+Timor-Leste,1981,0
+Timor-Leste,1982,0
+Timor-Leste,1983,0
+Timor-Leste,1984,0
+Timor-Leste,1985,0
+Timor-Leste,1986,0
+Timor-Leste,1987,0
+Timor-Leste,1988,0
+Timor-Leste,1989,0
+Timor-Leste,1990,0
+Timor-Leste,1991,0
+Timor-Leste,1992,0
+Timor-Leste,1993,0
+Timor-Leste,1994,0
+Timor-Leste,1995,0
+Timor-Leste,1996,0
+Timor-Leste,1997,0
+Timor-Leste,1998,0
+Timor-Leste,1999,0
 Timor-Leste,2000,420.946
 Timor-Leste,2001,539.594
 Timor-Leste,2002,520.99
@@ -8770,18 +8770,18 @@ Tunisia,2025,4417.916
 Tunisia,2026,4554.5
 Tunisia,2027,4682.676
 Tunisia,2028,4827.796
-Turkmenistan,1980,no data
-Turkmenistan,1981,no data
-Turkmenistan,1982,no data
-Turkmenistan,1983,no data
-Turkmenistan,1984,no data
-Turkmenistan,1985,no data
-Turkmenistan,1986,no data
-Turkmenistan,1987,no data
-Turkmenistan,1988,no data
-Turkmenistan,1989,no data
-Turkmenistan,1990,no data
-Turkmenistan,1991,no data
+Turkmenistan,1980,0
+Turkmenistan,1981,0
+Turkmenistan,1982,0
+Turkmenistan,1983,0
+Turkmenistan,1984,0
+Turkmenistan,1985,0
+Turkmenistan,1986,0
+Turkmenistan,1987,0
+Turkmenistan,1988,0
+Turkmenistan,1989,0
+Turkmenistan,1990,0
+Turkmenistan,1991,0
 Turkmenistan,1992,404.158
 Turkmenistan,1993,2257.197
 Turkmenistan,1994,1863.238
@@ -8819,28 +8819,28 @@ Turkmenistan,2025,15497.509
 Turkmenistan,2026,16962.072
 Turkmenistan,2027,18605.456
 Turkmenistan,2028,20446.444
-Tuvalu,1980,no data
-Tuvalu,1981,no data
-Tuvalu,1982,no data
-Tuvalu,1983,no data
-Tuvalu,1984,no data
-Tuvalu,1985,no data
-Tuvalu,1986,no data
-Tuvalu,1987,no data
-Tuvalu,1988,no data
-Tuvalu,1989,no data
-Tuvalu,1990,no data
-Tuvalu,1991,no data
-Tuvalu,1992,no data
-Tuvalu,1993,no data
-Tuvalu,1994,no data
-Tuvalu,1995,no data
-Tuvalu,1996,no data
-Tuvalu,1997,no data
-Tuvalu,1998,no data
-Tuvalu,1999,no data
-Tuvalu,2000,no data
-Tuvalu,2001,no data
+Tuvalu,1980,0
+Tuvalu,1981,0
+Tuvalu,1982,0
+Tuvalu,1983,0
+Tuvalu,1984,0
+Tuvalu,1985,0
+Tuvalu,1986,0
+Tuvalu,1987,0
+Tuvalu,1988,0
+Tuvalu,1989,0
+Tuvalu,1990,0
+Tuvalu,1991,0
+Tuvalu,1992,0
+Tuvalu,1993,0
+Tuvalu,1994,0
+Tuvalu,1995,0
+Tuvalu,1996,0
+Tuvalu,1997,0
+Tuvalu,1998,0
+Tuvalu,1999,0
+Tuvalu,2000,0
+Tuvalu,2001,0
 Tuvalu,2002,1741.529
 Tuvalu,2003,2075.674
 Tuvalu,2004,2385.564
@@ -8966,18 +8966,18 @@ Uganda,2025,1333.952
 Uganda,2026,1404.632
 Uganda,2027,1465.248
 Uganda,2028,1540.651
-Ukraine,1980,no data
-Ukraine,1981,no data
-Ukraine,1982,no data
-Ukraine,1983,no data
-Ukraine,1984,no data
-Ukraine,1985,no data
-Ukraine,1986,no data
-Ukraine,1987,no data
-Ukraine,1988,no data
-Ukraine,1989,no data
-Ukraine,1990,no data
-Ukraine,1991,no data
+Ukraine,1980,0
+Ukraine,1981,0
+Ukraine,1982,0
+Ukraine,1983,0
+Ukraine,1984,0
+Ukraine,1985,0
+Ukraine,1986,0
+Ukraine,1987,0
+Ukraine,1988,0
+Ukraine,1989,0
+Ukraine,1990,0
+Ukraine,1991,0
 Ukraine,1992,427.863
 Ukraine,1993,677.261
 Ukraine,1994,740.97
@@ -9211,18 +9211,18 @@ Uruguay,2025,23720.755
 Uruguay,2026,24766.304
 Uruguay,2027,25805.764
 Uruguay,2028,26847.659
-Uzbekistan,1980,no data
-Uzbekistan,1981,no data
-Uzbekistan,1982,no data
-Uzbekistan,1983,no data
-Uzbekistan,1984,no data
-Uzbekistan,1985,no data
-Uzbekistan,1986,no data
-Uzbekistan,1987,no data
-Uzbekistan,1988,no data
-Uzbekistan,1989,no data
-Uzbekistan,1990,no data
-Uzbekistan,1991,no data
+Uzbekistan,1980,0
+Uzbekistan,1981,0
+Uzbekistan,1982,0
+Uzbekistan,1983,0
+Uzbekistan,1984,0
+Uzbekistan,1985,0
+Uzbekistan,1986,0
+Uzbekistan,1987,0
+Uzbekistan,1988,0
+Uzbekistan,1989,0
+Uzbekistan,1990,0
+Uzbekistan,1991,0
 Uzbekistan,1992,209.573
 Uzbekistan,1993,315.613
 Uzbekistan,1994,366.873
@@ -9354,10 +9354,10 @@ Venezuela,2021,2090.398
 Venezuela,2022,3421.754
 Venezuela,2023,3474.332
 Venezuela,2024,3691.638
-Venezuela,2025,no data
-Venezuela,2026,no data
-Venezuela,2027,no data
-Venezuela,2028,no data
+Venezuela,2025,0
+Venezuela,2026,0
+Venezuela,2027,0
+Venezuela,2028,0
 Vietnam,1980,652.593
 Vietnam,1981,318.521
 Vietnam,1982,414.347
@@ -9407,20 +9407,20 @@ Vietnam,2025,5036.973
 Vietnam,2026,5429.039
 Vietnam,2027,5840.26
 Vietnam,2028,6281.35
-West Bank and Gaza,1980,no data
-West Bank and Gaza,1981,no data
-West Bank and Gaza,1982,no data
-West Bank and Gaza,1983,no data
-West Bank and Gaza,1984,no data
-West Bank and Gaza,1985,no data
-West Bank and Gaza,1986,no data
-West Bank and Gaza,1987,no data
-West Bank and Gaza,1988,no data
-West Bank and Gaza,1989,no data
-West Bank and Gaza,1990,no data
-West Bank and Gaza,1991,no data
-West Bank and Gaza,1992,no data
-West Bank and Gaza,1993,no data
+West Bank and Gaza,1980,0
+West Bank and Gaza,1981,0
+West Bank and Gaza,1982,0
+West Bank and Gaza,1983,0
+West Bank and Gaza,1984,0
+West Bank and Gaza,1985,0
+West Bank and Gaza,1986,0
+West Bank and Gaza,1987,0
+West Bank and Gaza,1988,0
+West Bank and Gaza,1989,0
+West Bank and Gaza,1990,0
+West Bank and Gaza,1991,0
+West Bank and Gaza,1992,0
+West Bank and Gaza,1993,0
 West Bank and Gaza,1994,1227.237
 West Bank and Gaza,1995,1322.057
 West Bank and Gaza,1996,1296.081
@@ -9449,23 +9449,23 @@ West Bank and Gaza,2018,3353.225
 West Bank and Gaza,2019,3442.754
 West Bank and Gaza,2020,3044.744
 West Bank and Gaza,2021,3464.383
-West Bank and Gaza,2022,no data
-West Bank and Gaza,2023,no data
-West Bank and Gaza,2024,no data
-West Bank and Gaza,2025,no data
-West Bank and Gaza,2026,no data
-West Bank and Gaza,2027,no data
-West Bank and Gaza,2028,no data
-Yemen,1980,no data
-Yemen,1981,no data
-Yemen,1982,no data
-Yemen,1983,no data
-Yemen,1984,no data
-Yemen,1985,no data
-Yemen,1986,no data
-Yemen,1987,no data
-Yemen,1988,no data
-Yemen,1989,no data
+West Bank and Gaza,2022,0
+West Bank and Gaza,2023,0
+West Bank and Gaza,2024,0
+West Bank and Gaza,2025,0
+West Bank and Gaza,2026,0
+West Bank and Gaza,2027,0
+West Bank and Gaza,2028,0
+Yemen,1980,0
+Yemen,1981,0
+Yemen,1982,0
+Yemen,1983,0
+Yemen,1984,0
+Yemen,1985,0
+Yemen,1986,0
+Yemen,1987,0
+Yemen,1988,0
+Yemen,1989,0
 Yemen,1990,963.773
 Yemen,1991,1075.877
 Yemen,1992,1268.268
@@ -9554,16 +9554,16 @@ Zambia,2025,1543.307
 Zambia,2026,1625.537
 Zambia,2027,1712.3
 Zambia,2028,1806.906
-Zimbabwe,1980,no data
-Zimbabwe,1981,no data
-Zimbabwe,1982,no data
-Zimbabwe,1983,no data
-Zimbabwe,1984,no data
-Zimbabwe,1985,no data
-Zimbabwe,1986,no data
-Zimbabwe,1987,no data
-Zimbabwe,1988,no data
-Zimbabwe,1989,no data
+Zimbabwe,1980,0
+Zimbabwe,1981,0
+Zimbabwe,1982,0
+Zimbabwe,1983,0
+Zimbabwe,1984,0
+Zimbabwe,1985,0
+Zimbabwe,1986,0
+Zimbabwe,1987,0
+Zimbabwe,1988,0
+Zimbabwe,1989,0
 Zimbabwe,1990,1036.534
 Zimbabwe,1991,936.263
 Zimbabwe,1992,748.65
@@ -9603,16 +9603,16 @@ Zimbabwe,2025,2962.04
 Zimbabwe,2026,2952.871
 Zimbabwe,2027,2722.861
 Zimbabwe,2028,2772.403
-Africa (Region),1980,no data
-Africa (Region),1981,no data
-Africa (Region),1982,no data
-Africa (Region),1983,no data
-Africa (Region),1984,no data
-Africa (Region),1985,no data
-Africa (Region),1986,no data
-Africa (Region),1987,no data
-Africa (Region),1988,no data
-Africa (Region),1989,no data
+Africa (Region),1980,0
+Africa (Region),1981,0
+Africa (Region),1982,0
+Africa (Region),1983,0
+Africa (Region),1984,0
+Africa (Region),1985,0
+Africa (Region),1986,0
+Africa (Region),1987,0
+Africa (Region),1988,0
+Africa (Region),1989,0
 Africa (Region),1990,1084.162
 Africa (Region),1991,973.976
 Africa (Region),1992,946.207
@@ -9859,7 +9859,7 @@ Central Asia and the Caucasus,1987,2260.66
 Central Asia and the Caucasus,1988,2333.225
 Central Asia and the Caucasus,1989,2707.896
 Central Asia and the Caucasus,1990,3738.161
-Central Asia and the Caucasus,1991,no data
+Central Asia and the Caucasus,1991,0
 Central Asia and the Caucasus,1992,1911.941
 Central Asia and the Caucasus,1993,2238.904
 Central Asia and the Caucasus,1994,1670.342
@@ -9869,7 +9869,7 @@ Central Asia and the Caucasus,1997,2433.392
 Central Asia and the Caucasus,1998,2524.398
 Central Asia and the Caucasus,1999,2336.649
 Central Asia and the Caucasus,2000,2452.981
-Central Asia and the Caucasus,2001,no data
+Central Asia and the Caucasus,2001,0
 Central Asia and the Caucasus,2002,1988.413
 Central Asia and the Caucasus,2003,2521.082
 Central Asia and the Caucasus,2004,3221.958
@@ -9890,7 +9890,7 @@ Central Asia and the Caucasus,2018,5794.311
 Central Asia and the Caucasus,2019,5698.703
 Central Asia and the Caucasus,2020,5344.56
 Central Asia and the Caucasus,2021,5998.018
-Central Asia and the Caucasus,2022,no data
+Central Asia and the Caucasus,2022,0
 Central Asia and the Caucasus,2023,9549.576
 Central Asia and the Caucasus,2024,10752.205
 Central Asia and the Caucasus,2025,11217.543
@@ -9955,9 +9955,9 @@ Eastern Europe ,1985,2207.106
 Eastern Europe ,1986,2267.738
 Eastern Europe ,1987,2309.591
 Eastern Europe ,1988,2727.925
-Eastern Europe ,1989,no data
-Eastern Europe ,1990,no data
-Eastern Europe ,1991,no data
+Eastern Europe ,1989,0
+Eastern Europe ,1990,0
+Eastern Europe ,1991,0
 Eastern Europe ,1992,944.571
 Eastern Europe ,1993,1439.892
 Eastern Europe ,1994,1907.161
@@ -10004,9 +10004,9 @@ Europe,1985,7501.073
 Europe,1986,10066.525
 Europe,1987,12336.215
 Europe,1988,13769.203
-Europe,1989,no data
-Europe,1990,no data
-Europe,1991,no data
+Europe,1989,0
+Europe,1990,0
+Europe,1991,0
 Europe,1992,13244.566
 Europe,1993,12165.338
 Europe,1994,13071.52
@@ -10387,16 +10387,16 @@ Southeast Asia,2025,6498.719
 Southeast Asia,2026,6928.756
 Southeast Asia,2027,7374.33
 Southeast Asia,2028,7840.773
-Sub-Saharan Africa (Region) ,1980,no data
-Sub-Saharan Africa (Region) ,1981,no data
-Sub-Saharan Africa (Region) ,1982,no data
-Sub-Saharan Africa (Region) ,1983,no data
-Sub-Saharan Africa (Region) ,1984,no data
-Sub-Saharan Africa (Region) ,1985,no data
-Sub-Saharan Africa (Region) ,1986,no data
-Sub-Saharan Africa (Region) ,1987,no data
-Sub-Saharan Africa (Region) ,1988,no data
-Sub-Saharan Africa (Region) ,1989,no data
+Sub-Saharan Africa (Region) ,1980,0
+Sub-Saharan Africa (Region) ,1981,0
+Sub-Saharan Africa (Region) ,1982,0
+Sub-Saharan Africa (Region) ,1983,0
+Sub-Saharan Africa (Region) ,1984,0
+Sub-Saharan Africa (Region) ,1985,0
+Sub-Saharan Africa (Region) ,1986,0
+Sub-Saharan Africa (Region) ,1987,0
+Sub-Saharan Africa (Region) ,1988,0
+Sub-Saharan Africa (Region) ,1989,0
 Sub-Saharan Africa (Region) ,1990,851.43
 Sub-Saharan Africa (Region) ,1991,840.018
 Sub-Saharan Africa (Region) ,1992,808.812
@@ -10690,9 +10690,9 @@ Emerging and Developing Europe,1985,2066.026
 Emerging and Developing Europe,1986,2158.702
 Emerging and Developing Europe,1987,2290.672
 Emerging and Developing Europe,1988,2573.753
-Emerging and Developing Europe,1989,no data
-Emerging and Developing Europe,1990,no data
-Emerging and Developing Europe,1991,no data
+Emerging and Developing Europe,1989,0
+Emerging and Developing Europe,1990,0
+Emerging and Developing Europe,1991,0
 Emerging and Developing Europe,1992,1371.633
 Emerging and Developing Europe,1993,1847.157
 Emerging and Developing Europe,1994,2020.149
@@ -10779,17 +10779,17 @@ Emerging market and developing economies,2025,7130.2
 Emerging market and developing economies,2026,7505.24
 Emerging market and developing economies,2027,7883.202
 Emerging market and developing economies,2028,8280.393
-Euro area,1980,no data
-Euro area,1981,no data
-Euro area,1982,no data
-Euro area,1983,no data
-Euro area,1984,no data
-Euro area,1985,no data
-Euro area,1986,no data
-Euro area,1987,no data
-Euro area,1988,no data
-Euro area,1989,no data
-Euro area,1990,no data
+Euro area,1980,0
+Euro area,1981,0
+Euro area,1982,0
+Euro area,1983,0
+Euro area,1984,0
+Euro area,1985,0
+Euro area,1986,0
+Euro area,1987,0
+Euro area,1988,0
+Euro area,1989,0
+Euro area,1990,0
 Euro area,1991,19403.709
 Euro area,1992,21320.845
 Euro area,1993,19289.703
@@ -11073,16 +11073,16 @@ Other advanced economies,2025,54067.823
 Other advanced economies,2026,56395.411
 Other advanced economies,2027,58664.967
 Other advanced economies,2028,60994.861
-Sub-Saharan Africa,1980,no data
-Sub-Saharan Africa,1981,no data
-Sub-Saharan Africa,1982,no data
-Sub-Saharan Africa,1983,no data
-Sub-Saharan Africa,1984,no data
-Sub-Saharan Africa,1985,no data
-Sub-Saharan Africa,1986,no data
-Sub-Saharan Africa,1987,no data
-Sub-Saharan Africa,1988,no data
-Sub-Saharan Africa,1989,no data
+Sub-Saharan Africa,1980,0
+Sub-Saharan Africa,1981,0
+Sub-Saharan Africa,1982,0
+Sub-Saharan Africa,1983,0
+Sub-Saharan Africa,1984,0
+Sub-Saharan Africa,1985,0
+Sub-Saharan Africa,1986,0
+Sub-Saharan Africa,1987,0
+Sub-Saharan Africa,1988,0
+Sub-Saharan Africa,1989,0
 Sub-Saharan Africa,1990,893.641
 Sub-Saharan Africa,1991,880.671
 Sub-Saharan Africa,1992,846.236

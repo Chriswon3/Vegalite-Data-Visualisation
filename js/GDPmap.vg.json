@@ -15,7 +15,7 @@
                         "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
                     },
                 "key": "properties.NAME",
-                "fields": ["properties","Year","GDP"]
+                "fields": ["properties","year","GDP"]
                 }
             },
             {"filter": "datum.year==year"}
