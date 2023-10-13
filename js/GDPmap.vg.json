@@ -4,43 +4,46 @@
     "width": 800,
     "height": 400,
     "projection":{"type": "equalEarth"},
+    "data": {"url":"https://raw.githubusercontent.com/Chriswon3/FIT3179-A2/main/data/gdpdata.csv"},
     "layer":[{
-        "params":[{
-            "name": "Year",
-            "value":[{"year": 2022}],
-            "select": {"type": "point", "fields": ["Year"]},
-            "bind": {
-                "Year": {"input": "range", "min": 1980, "max": 2028, "step": 1, "name":"Select the year:"}
-            }
-        }],
-        "data":{
-            "url":"https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/3_choropleth_map/js/ne_110m_admin_0_countries.topojson",
-            "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
-        },
-    
         "transform": [
             {
-                
-                "lookup":"properties.NAME",
+                "lookup":"Country",
                 "from": {
-                    "data": {"url":"https://raw.githubusercontent.com/Chriswon3/FIT3179-A2/main/data/gdpdata.csv"},
-                "key": "Country",
-                "fields": ["2022"]
+                    "data":{
+                        "url":"https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/3_choropleth_map/js/ne_110m_admin_0_countries.topojson",
+                        "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
+                    },
+                "key": "properties.NAME",
+                "fields": ["properties","Year","GDP"]
                 }
-            }
+            },
+            {"filter": "datum.year==year"}
         ],
 
+        "params":[{
+           "name": "year",
+           "value": 2022,
+           "bind": {
+            "input": "range",
+            "min": 1980,
+            "max": 2028,
+            "step": 1,
+            "name": "Select the year: "
+           }
+        }],
+        
 
         "mark":{"type": "geoshape"},
         "encoding": {
             "color": {
-                "field": "2022",
-                "type": "quantitative",
-                "scale": {"type": "log"}
+                "field": "GDP",
+                "type": "quantitative"
+                
             },
             "tooltip":[
                 {"field": "properties.NAME", "type": "nominal", "title": "Country"},
-                {"field": "2022", "type": "quantitative"}
+                {"field": "Year", "type": "quantitative"}
             ]
         }
     }]
