@@ -75,7 +75,7 @@ body{
     to {opacity: 1;}
   }
 
-  .float-container {
+.float-container {
     overflow: hidden; /* Clearfix */
 }
 
