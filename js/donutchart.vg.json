@@ -1,0 +1,76 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "repeat": [
+        "Africa",
+        "Americas",
+        "Asia",
+        "Europe",
+        "Oceania"
+    ],
+    "columns": 2,
+    "spec": {
+        "width": 200,
+        "height": 150,
+        "layer": [
+            {
+                "data": {
+                    "url": "https://raw.githubusercontent.com/Chriswon3/FIT3179-A2/main/data/worlddatabycontinent.csv"
+                },
+                "transform": [
+    
+                    {
+                      "aggregate": [
+                        {"op": "mean", "field": "Life expectancy", "as": "average_life_expectancy"}
+                      ],
+                      "groupby": ["Continent"]
+                    }
+                  ],
+                "mark": {
+                    "type": "arc",
+                    "innerRadius": 25
+                },
+                "encoding": {
+                    "theta": {"field": "average_life_expectancy", "type": "quantitative"},
+                    "color": {
+                        "field":"Continent",
+                        "type": "nominal"
+                    },
+                    "tooltip": [
+                        {
+                            "field":"Continent",
+                            "type": "nominal"
+                        },
+                        {"field": "average_life_expectancy", "type": "quantitative", "title": "Average Life Expectancy"}
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "values": [
+                        {
+                            "Confirmed": "Confirmed",
+                            "Deaths": "Deaths",
+                            "Recovered": "Recovered",
+                            "Active": "Active"
+                        }
+                    ]
+                },
+                "mark": {
+                    "type": "text",
+                    "align": "center",
+                    "baseline": "bottom",
+                    "fontSize": 12,
+                    "x": 100,
+                    "y": -20
+                },
+                "encoding": {
+                    "text": {
+                        "field": {
+                            "repeat": "repeat"
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}
