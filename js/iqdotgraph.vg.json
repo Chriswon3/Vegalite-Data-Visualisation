@@ -1,0 +1,33 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "A scatter plot representing the relationship between Average IQ and GDP per Capita.",
+    "width": 600,
+    "height": 300,
+    "data": {
+      "url": "data/gdpiq.csv"
+    },
+    "mark": {
+        "type": "circle",
+        "color": "blue" 
+      },
+    "encoding": {
+      "x": {
+        "field": "Average IQ",
+        "type": "quantitative",
+        "title": "Average IQ",
+        "scale": {
+          "domain": [90, 110]
+        }
+      },
+      "y": {
+        "field": "GDP Per Capita",
+        "type": "quantitative",
+        "title": "GDP Per Capita"
+      },
+      "tooltip": [
+        {"field": "Country", "type": "nominal"},
+        {"field": "Average IQ", "type": "quantitative"},
+        {"field": "GDP Per Capita", "type": "quantitative"}
+      ]
+    }
+  }

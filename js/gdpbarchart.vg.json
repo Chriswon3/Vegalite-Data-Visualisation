@@ -1,0 +1,51 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "An aggregate bar chart representing GDP values for different regions in the selected year",
+  "width": 600,
+  "height": 300,
+  "data": {
+    "url":"https://raw.githubusercontent.com/Chriswon3/FIT3179-A2/main/data/gdpdata.csv"
+  },
+  "params": [
+    {
+      "name": "selectedYear",
+      "value": "2022",
+      "bind": {
+        "input": "range",
+        "min": 2000,
+        "max": 2022,
+        "step": 1
+      }
+    }
+  ],
+  "transform":[
+    {
+      "filter": {
+        "field": "country",
+        "oneOf": ["Africa (Region)", "Asia and Pacific", "Australia and New Zealand","Caribbean","Central America","East Asia", "Eastern Europe ", "Europe", "Middle East (Region)", "North Africa", "North America", "Pacific Islands ", "South America", "Southeast Asia", "Western Europe"]
+      }
+    },
+    {
+      "filter": "datum.year == selectedYear"
+    }
+  
+  ],
+  "mark": "bar",
+  "encoding": {
+    "y": {
+      "field": "country",
+      "type": "nominal",
+      "sort": "-x",
+      "title": "Country"
+    },
+    "x": {
+      "field": "gdp",
+      "type": "quantitative",
+      "title": "GDP Per Capita"
+    },
+    "tooltip": [
+      {"field": "country", "type": "nominal", "title":"Region"},
+      {"field": "gdp", "type": "quantitative", "title":"GDP "}
+    ]
+  }
+}
