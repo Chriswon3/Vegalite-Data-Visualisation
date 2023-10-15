@@ -4,7 +4,7 @@
     "width": 600,
     "height": 300,
     "data": {
-      "url": "data/gdpiq.csv"
+      "url": "https://raw.githubusercontent.com/Chriswon3/FIT3179-A2/main/data/gdpiq.csv"
     },
     "mark": {
         "type": "circle",
@@ -16,7 +16,7 @@
         "type": "quantitative",
         "title": "Average IQ",
         "scale": {
-          "domain": [90, 110]
+          "domain": [30,110]
         }
       },
       "y": {
