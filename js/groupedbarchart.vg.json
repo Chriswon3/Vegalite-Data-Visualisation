@@ -1,0 +1,38 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+    "description": "A grouped bar chart comparing life expectancy and GDP per continent.",
+    "data": {
+      "url": "https://raw.githubusercontent.com/Chriswon3/FIT3179-A2/main/data/worlddatabycontinent.csv"
+    },
+    "transform": [
+        {
+            "aggregate": [
+                {"op": "mean", "field": "Life expectancy", "as": "average_life_expectancy"}
+            ],
+            "groupby":["Continent"]
+        }
+    ],
+    "mark": "bar",
+    "encoding": {
+      "x": {
+        "field": "Continent", 
+        "type": "nominal", 
+        "axis": {"title": "Continent"}
+      },
+      "y": {
+        "field": "value",
+        "type": "quantitative",
+        "axis": {"title": "Value"}
+      },
+      "color": {
+        "field": "metric",
+        "type": "nominal",
+        "legend": {"title": "Metric"},
+        "scale": {"domain": ["GDP", "Life Expectancy"], "range": ["#1f77b4", "#ff7f0e"]}
+      },
+      "column": {
+        "field": "metric",
+        "type": "nominal"
+      }
+    }
+  }
