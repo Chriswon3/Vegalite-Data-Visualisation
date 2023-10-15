@@ -6,3 +6,6 @@ vegaEmbed("#gdpbarchart", GDPbarchart, {"actions": false});
 
 IQdotgraph = "js/iqdotgraph.vg.json"
 vegaEmbed("#iqdotgraph", IQdotgraph, {"actions": false});
+
+gdphomicide = "js/gdphomicide.vg.json"
+vegaEmbed("#gdphomicide", gdphomicide, {"actions": false});

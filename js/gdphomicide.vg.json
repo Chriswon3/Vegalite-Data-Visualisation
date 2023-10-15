@@ -1,0 +1,26 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "A bar chart representing GDP per Capita by country with color indicating Homicide rates.",
+    "width": 1110,
+    "height": 300,
+    "data": {
+      "url": "https://raw.githubusercontent.com/Chriswon3/FIT3179-A2/main/data/gdphomiciderates.csv"
+    },
+    "mark": "bar",
+    "encoding": {
+      "y": {"field": "GDP Per Capita", "type": "quantitative", "title": "GDP per Capita"},
+      "x": {"field": "country", "type": "ordinal", "title": "Country", "axis": {"labelAngle": -45}, "sort": "-y"},
+      "color": {
+        "field": "Homicide rate",
+        "type": "quantitative",
+        "scale": {"scheme": "reds"},
+        "legend": {"title": "Homicide Rate"}
+      },
+      
+      "tooltip": [
+        {"field": "country", "type": "ordinal"},
+        {"field": "GDP Per Capita", "type": "quantitative"},
+        {"field": "Homicide rate", "type": "quantitative"}
+      ]
+    }
+  }
