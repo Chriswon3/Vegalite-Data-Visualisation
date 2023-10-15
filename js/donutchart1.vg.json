@@ -3,6 +3,7 @@
     "description": "A donut chart representing average life expectancy by continent, omitting countries without life expectancy data.",
     "width": 600,
     "height": 350,
+    "title": "Average Life Expectancy of each Continent",
     "data": {
       "url":"https://raw.githubusercontent.com/Chriswon3/FIT3179-A2/main/data/worlddatabycontinent.csv"
     },

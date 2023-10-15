@@ -3,6 +3,7 @@
     "description": "A scatter plot representing the relationship between Average IQ and GDP per Capita.",
     "width": 600,
     "height": 300,
+    "title": "Average IQ of Country VS GDP",
     "data": {
       "url": "https://raw.githubusercontent.com/Chriswon3/FIT3179-A2/main/data/gdpiq.csv"
     },

@@ -15,7 +15,9 @@
         "groupby": ["Continent"]
       }
     ],
-    "mark": "bar",
+    "mark": {
+      "type":"bar"
+    },
     "encoding": {
         "x": {
           "field": "Continent",
@@ -31,6 +33,14 @@
           "type": "quantitative",
           "axis": {"title": "Average GDP"}
         },
+        "color":{
+          "field": "Continent",
+          "type": "nominal",
+          "scale": {
+            "domain": ["Africa", "Oceania", "Americas", "Asia", "Europe"],
+            "range": ["#00008b", "#008000", "#FFA500", "#FF0000", "#ADD8E6"]
+        }
+      },
       "tooltip": [
         {"field": "Continent", "type": "nominal", "title":"Continent"},
         {"field": "average_GDP", "type": "quantitative", "title":"GDP "}

@@ -2,6 +2,7 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "width": 1000,
   "height": 600,
+  "title":"A Coropleth Map view of Country's GDP",
   "projection":{"type": "equalEarth"},
   "data":{
       "url":"https://raw.githubusercontent.com/Chriswon3/FIT3179-A2/main/data/gdpdata.csv"  
@@ -34,7 +35,7 @@
               "lookup":"country",
               "from": {
               "data": {
-                  "url":"https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/3_choropleth_map/js/ne_110m_admin_0_countries.topojson",
+                  "url":"https://raw.githubusercontent.com/Chriswon3/FIT3179-A2/main/js/ne_110m_admin_0_countries.topojson",
                       "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
                   
               },
@@ -63,7 +64,7 @@
                 "test": "test(regexp(selectedCountry,'i'),datum.country)",
                 "value": 1
               },
-              "value": 0.3
+              "value": 0.2
           },
           "tooltip":[
               {"field": "country", "type": "nominal", "title": "Country"},
