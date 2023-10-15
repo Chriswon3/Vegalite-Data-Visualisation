@@ -1,77 +1,79 @@
 {
-    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": 1000,
-    "height": 600,
-    "projection":{"type": "equalEarth"},
-    "data":{
-        "url":"https://raw.githubusercontent.com/Chriswon3/FIT3179-A2/main/data/gdpdata.csv"  
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 1000,
+  "height": 600,
+  "projection":{"type": "equalEarth"},
+  "data":{
+      "url":"https://raw.githubusercontent.com/Chriswon3/FIT3179-A2/main/data/gdpdata.csv"  
+  },
+  
+  "params": [
+    {
+      "name": "selectedYear",
+      "value": "2022",
+      "bind": {
+        "input": "range",
+        "min": 1980,
+        "max": 2028,
+        "step": 1,
+        "name":"Select the Year: "
+      }
     },
-    "params": [
-        {
-          "name": "selectedYear",
-          "value": "2022",
-          "bind": {
-            "input": "range",
-            "min": 1980,
-            "max": 2028,
-            "step": 1,
-            "name":"Select the Year: "
-          }
+    {
+        "name": "selectedCountry",
+        "bind":{
+            "input": "search",
+            "placeholder": "Country Name",
+            "name":"Search for your Country: "
         },
-        {
-            "name": "selectedCountry",
-            "bind":{
-                "input": "search",
-                "placeholder": "Country Name",
-                "name":"Search for your Country: "
-            },
-            "value": ""
-        }
-      ],
-        "transform": [
-            {
-                "lookup":"country",
-                "from": {
-                "data": {
-                    "url":"https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/3_choropleth_map/js/ne_110m_admin_0_countries.topojson",
-                        "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
-                    
-                },
-                "key": "properties.NAME"
-                },
-                "as": "geo"
-            },
-            {
-                "filter": "datum.year == selectedYear"
-              }
-             
-            
-            
-            
-        ],
-        "mark":{"type": "geoshape"},
-        "encoding": {
-            "shape": {"field": "geo", "type": "geojson"},
-            "color": {
-              "field": "gdp",
-              "type": "quantitative"
-            },
-            "opacity": {
-                "condition": {
-                  "test": "test(regexp(selectedCountry,'i'),datum.country)",
-                  "value": 1
-                },
-                "value": 0.3
-            },
-            "tooltip":[
-                {"field": "country", "type": "nominal", "title": "Country"},
-                {"field": "year", "type": "quantitative", "title":"year"},
-                {"field": "gdp", "type": "quantitative", "title":"GDP Per Capita"}
-            ]
-        }
-    
+        "value": ""
+    }
+  ],
+      "transform": [
+          {
+              "lookup":"country",
+              "from": {
+              "data": {
+                  "url":"https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/3_choropleth_map/js/ne_110m_admin_0_countries.topojson",
+                      "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
+                  
+              },
+              "key": "properties.NAME"
+              },
+              "as": "geo"
+          },
+          {
+              "filter": "datum.year == selectedYear"
+            }
 
-    
-    
-   
+      ],
+      "mark":{"type": "geoshape"},
+      "encoding": {
+          "shape": {"field": "geo", "type": "geojson"},
+          "color": {
+            "field": "gdp",
+            "type": "quantitative",
+            "scale":{
+              "scheme":"bluegreen"
+            }
+          },
+         
+          "opacity": {
+              "condition": {
+                "test": "test(regexp(selectedCountry,'i'),datum.country)",
+                "value": 1
+              },
+              "value": 0.3
+          },
+          "tooltip":[
+              {"field": "country", "type": "nominal", "title": "Country"},
+              {"field": "year", "type": "quantitative", "title":"year"},
+              {"field": "gdp", "type": "quantitative", "title":"GDP Per Capita"}
+          ]
+      }
+  
+
+  
+  
+ 
 }

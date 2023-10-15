@@ -1,0 +1,39 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "A bar graph presenting the average GDP of each continent.",
+    "title": "Average GDP by Continent",
+    "width": 600,
+    "height": 300,
+    "data": {
+      "url": "https://raw.githubusercontent.com/Chriswon3/FIT3179-A2/main/data/worlddatabycontinent.csv"
+    },
+    "transform": [
+      {
+        "aggregate": [
+          {"op": "mean", "field": "GDP per Capita", "as": "average_GDP"}
+        ],
+        "groupby": ["Continent"]
+      }
+    ],
+    "mark": "bar",
+    "encoding": {
+        "x": {
+          "field": "Continent",
+          "type": "nominal",
+          "axis": {"title": "Continent"},
+          "sort": {
+            "field": "average_GDP",
+            "order": "ascending"
+          }
+        },
+        "y": {
+          "field": "average_GDP",
+          "type": "quantitative",
+          "axis": {"title": "Average GDP"}
+        },
+      "tooltip": [
+        {"field": "Continent", "type": "nominal", "title":"Continent"},
+        {"field": "average_GDP", "type": "quantitative", "title":"GDP "}
+      ]
+    }
+  }

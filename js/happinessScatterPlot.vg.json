@@ -1,0 +1,38 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "A scatter plot showing the correlation between GDP and happiness score by country.",
+    "width": 600,
+    "height": 300,
+    "data": {
+      "url": "https://raw.githubusercontent.com/Chriswon3/FIT3179-A2/main/data/happiness2019_fixed.csv"
+    },
+    "mark": {
+        "type": "circle",
+        "color": "green" 
+      },
+    "encoding": {
+      "x": {
+        "field": "GDP ",
+        "type": "quantitative",
+        "axis": {
+          "title": "GDP"
+        }
+      },
+      "y": {
+        "field": "Score",
+        "type": "quantitative",
+        "axis": {
+          "title": "Happiness Score"
+        },
+        "scale": {
+            "domain": [3,8]
+          }  
+      },
+      "tooltip": {
+        "field": "Country or region",
+        "type": "nominal",
+        "title": "Country"
+      }
+    },
+    "title": "Happiness Score vs GDP by Country"
+  }
